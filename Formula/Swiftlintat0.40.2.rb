@@ -1,4 +1,4 @@
-class Swiftlint < Formula
+class Swiftlintat0402 < Formula
   desc "Tool to enforce Swift style and conventions"
   homepage "https://github.com/realm/SwiftLint"
   url "https://github.com/realm/SwiftLint.git",
